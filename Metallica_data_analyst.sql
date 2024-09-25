@@ -117,7 +117,7 @@ mt.Track 							                                 	as  Title
  limit 10
  
  
-/*2. In which countrues there was more than 10 concerts? */
+/*2. In which countries there was more than 10 concerts? */
  
 select 
 Country 
