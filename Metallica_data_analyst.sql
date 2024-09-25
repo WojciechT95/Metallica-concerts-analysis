@@ -148,8 +148,8 @@ from metallica_data md
 /*4. In which years were there the most concerts?* What was the percentage of the total concerts? */
 
 select 
-year (`Date`)				                                                            as Year
-,count(`Date`)		                                                             as Number_of_concerts
+year (`Date`)				                                                               as Year
+,count(`Date`)		                                                                      as Number_of_concerts
 ,round((count(`Date`)/(select count(*) from metallica_data md) ) * 100,2)				as Percent_ratio
 from metallica_data md 
 where year(`Date`) between 1982 and 2018
