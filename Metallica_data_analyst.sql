@@ -91,7 +91,7 @@ tenth_track as
  group by 1
 )
  select 
-mt.Track 							               	as  Title
+mt.Track 							                            	as  Title
  ,(COALESCE(number_of_1_track_songs_played,0) + 
  COALESCE(number_of_2_track_songs_played,0) + 
  COALESCE(number_of_3_track_songs_played,0) +
