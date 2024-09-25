@@ -173,7 +173,7 @@ limit 1
 
 select
 min(`Date`)			                            	as First_performance
-,max(`Date`)			                            as Last_performance
+,max(`Date`)			                                as Last_performance
 from metallica_data md 
 where
   `1 Track` = "For Whom the Bell Tolls" OR
