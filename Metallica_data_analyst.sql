@@ -161,7 +161,7 @@ order by 2 desc
 
 select 
 Last_track_Set 				as Title
-,count(Last_track_Set)	     	as Number_of_songs_played
+,count(Last_track_Set)	          	as Number_of_songs_played
 from metallica_data md 
 where Last_track_Set <> ''
 group by 1
