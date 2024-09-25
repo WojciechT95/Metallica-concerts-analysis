@@ -2,17 +2,19 @@
 
  ## Project Overview
  
-The project presents an analysis of Metallica live concerts from 1982 to 2018. The data includes such information as the date and place of the concert, the tour, the full track of songs played, and how many of the songs are from which album. The project focuses on tracking the development of the team during all its activity.
+The project presents an analysis of Metallica live concerts from 1982 to 2018. The data includes such information as the date and place of the concert, the tour, the full track of songs played, and how many of the songs are from which album. The project focuses on tracking the development of the band during all its activity.
 
 ## Technologies Used
 
 **Microsoft Excel** used for
-- Data Cleaning: containing operations such as: delete duplicates, dividing the collision date of the accident into day of the week, month and hour through the TEXT function, counting the number of lethal and injuries accidents through the IF function, narrowing the hours of the accident to four times of the day through the VLOOKUP function.
-- Data Analyst : asking the data the relevant questions and creating pivot tables that answer these questions.
-- Data Visualisation: creation of pivot charts corresponding to pivot tables with slicers.
-  
-PS. Functions are written in Polish because of the software i have.
+- Data Cleaning: containing operations such as: delete duplicates,
 
+**MySQL** used for
+- Data Analyst : asking the data the relevant questions and creating pivot tables that answer these questions.
+- 
+**Power BI** used for
+- Data Visualisation: creation of pivot charts corresponding to pivot tables with slicers.
+- 
 ## Insights and Conclusions
 The New York Accidents Dashboard provides several key insights:
 
