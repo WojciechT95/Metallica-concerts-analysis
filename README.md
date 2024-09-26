@@ -20,6 +20,13 @@ The project presents an analysis of Metallica live concerts from 1982 to 2018. T
 
 ## Insights and Conclusions
 
+- The song that Metallica most often plays at concerts is "For Whom The Bells Tolls",
+
+- The most played songs came from the first five albums recorded by the band,
+
+- The period of the band's greatest live activity was in the late 1980s and early 1990s,
+
+- The band most often plays in the United States, which is understandable given the fact that they are from there.
 
 ## Data Source
     
