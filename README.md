@@ -26,7 +26,9 @@ The project presents an analysis of Metallica live concerts from 1982 to 2018. T
 
 - The period of the band's greatest live activity was in the late 1980s and early 1990s,
 
-- The band most often plays in the United States, which is understandable given the fact that they are from there.
+- The band most often plays in the United States, which is understandable given the fact that they are from there,
+
+- The most frequently played song in encores is "Master Of Puppets".
 
 ## Data Source
     
