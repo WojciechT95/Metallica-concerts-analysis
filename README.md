@@ -16,7 +16,8 @@ The project presents an analysis of Metallica live concerts from 1982 to 2018. T
 - Data Cleaning: containing extract year from date and creating separate table with using unpivot table,
 - Data Visualisation: creating measures and designing the interactive dashboard visualizations.
   
-  ![image](https://github.com/user-attachments/assets/39ca4999-b903-4cf6-9e79-42090bbfae01)
+![image](https://github.com/user-attachments/assets/6e35118f-c9e3-4ae6-b65f-64e5b08028b9)
+
 
 ## Insights and Conclusions
 
