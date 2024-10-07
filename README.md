@@ -10,7 +10,7 @@ The project presents an analysis of Metallica live concerts from 1982 to 2018. T
 - Data Cleaning: containing operations such as: delete duplicates, Date formatting using the text and concat functions, place and track set separation using the text to column, trim and replace functions.
 
 **MySQL** used for
-- Data Modeling : Used for structured querying and data manipulation to prepare the dataset for visualization.
+- Data Manipulation : Used for structured querying to prepare the dataset for visualization.
   
 **Power BI** used for
 - Data Cleaning: containing extract year from date and creating separate table with using unpivot table,
