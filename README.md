@@ -1,4 +1,4 @@
-#  Metallica concerts analysis and dashboard
+#  Metallica concerts analysis
 
  ## Project Overview
  
@@ -10,11 +10,11 @@ The project presents an analysis of Metallica live concerts from 1982 to 2018. T
 - Data Cleaning: containing operations such as: delete duplicates, Date formatting using the text and concat functions, place and track set separation using the text to column, trim and replace functions.
 
 **MySQL** used for
-- Data Analyst : Used for structured querying and data manipulation to prepare the dataset for visualization.
+- Data Modeling : Used for structured querying and data manipulation to prepare the dataset for visualization.
   
 **Power BI** used for
 - Data Cleaning: containing extract year from date and creating separate table with using unpivot table,
-- Data Visualisation: data modeling, creating measures and designing the interactive dashboard visualizations.
+- Data Visualisation: creating measures and designing the interactive dashboard visualizations.
   
   ![image](https://github.com/user-attachments/assets/39ca4999-b903-4cf6-9e79-42090bbfae01)
 
